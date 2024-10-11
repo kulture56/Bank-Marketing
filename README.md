@@ -1,5 +1,5 @@
 ## Bank-Marketing
- Predicting if the client will subscribe a term deposit
+The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
 
@@ -10,3 +10,6 @@ There are four datasets:
 3) bank-full.csv with all examples and 17 inputs, ordered by date (older version of this dataset with less inputs). 
 4) bank.csv with 10% of the examples and 17 inputs, randomly selected from 3 (older version of this dataset with less inputs). 
 The smallest datasets are provided to test more computationally demanding machine learning algorithms (e.g., SVM). 
+
+Dataset Characteristics: Multivariate               Subject Area: Business         Associated Tasks: Classification
+Feature Type: Categorical, Integer                  # Instances: 45211             # Features: 16
