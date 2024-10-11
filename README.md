@@ -11,5 +11,9 @@ There are four datasets:
 4) bank.csv with 10% of the examples and 17 inputs, randomly selected from 3 (older version of this dataset with less inputs). 
 The smallest datasets are provided to test more computationally demanding machine learning algorithms (e.g., SVM). 
 
-Dataset Characteristics: Multivariate               Subject Area: Business         Associated Tasks: Classification
-Feature Type: Categorical, Integer                  # Instances: 45211             # Features: 16
+Dataset Characteristics: Multivariate               
+Subject Area: Business        
+Associated Tasks: Classification
+Feature Type: Categorical, Integer                
+Instances: 45211           
+ Features: 16
